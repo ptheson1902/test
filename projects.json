@@ -1,0 +1,163 @@
+[
+  {
+    "_id": {
+      "$oid": "602faa3fc129eb1d6b8a4cda"
+    },
+    "projectName": "Galera",
+    "projectImage": "galera.png",
+    "codeTechnologies": [
+      "html5",
+      "css3",
+      "sass",
+      "javascript",
+      "php",
+      "mysql"
+    ],
+    "description": "IT業界に特化したビジネス英語を学ぶサービスインターネット経由でユーザーをストアシ ステムに接続するWebサイトを作成します。 取引の作成は簡単で便利です",
+    "projectProgress": "完了",
+    "projectLink": "http://click.ecc.ac.jp/ecc/ptheson/material/galea/",
+    "projectSources": "https://github.com/ptheson1902/galera",
+    "shortDescription": "英語の勉強サイトです"
+  },{
+    "projectName": "Study List",
+    "projectImage": "study-list.png",
+    "codeTechnologies": [
+      "reactjs",
+      "nodejs",
+      "mongodb"
+    ],
+    "description": "",
+    "projectProgress": "完了",
+    "projectLink": "https://learn-it-pts.netlify.app/",
+    "projectSources": "https://github.com/ptheson1902/MERN-study",
+    "shortDescription": ""
+  },{
+  "_id": {
+    "$oid": "602faa3fc129eb1d6b8a4cdf"
+  },
+  "projectName": "Portfolio - Version 2",
+  "projectImage": "portfolio-v2.png",
+  "codeTechnologies": [
+    "html5",
+    "css3",
+    "sass",
+    "javascript",
+    "jquery",
+    "bootstrap",
+    "nodejs",
+    "mongodb"
+  ],
+  "description": "自己紹介。作成した商品を紹介。",
+  "projectProgress": "Writting",
+  "projectLink": "https://portfolio-pts.herokuapp.com",
+  "projectSources": "https://github.com/ptheson1902/portfolio",
+  "shortDescription": "自己紹介。作成した商品を紹介。"
+},{
+"projectName": "Portfolio - Version 2",
+"projectImage": "portfolio-v2.png",
+"codeTechnologies": [
+  "html5",
+  "css3",
+  "sass",
+  "javascript",
+  "jquery",
+  "bootstrap",
+  "nodejs",
+  "mongodb"
+],
+"description": "自己紹介。作成した商品を紹介。",
+"projectProgress": "Writting",
+"projectLink": "https://portfolio-pts.herokuapp.com",
+"projectSources": "https://github.com/ptheson1902/portfolio",
+"shortDescription": "自己紹介。作成した商品を紹介。"
+},{
+  "_id": {
+    "$oid": "602faa3fc129eb1d6b8a4cdb"
+  },
+  "projectName": "For Your Information",
+  "projectImage": "for-your-information.png",
+  "codeTechnologies": [
+    "html5",
+    "bootstrap",
+    "sass",
+    "jquery",
+    "php",
+    "mysql"
+  ],
+  "description": "外国人は日本に来たとき、日本語が良くありませんそれで、部屋を探す事や学校を探す事が難しいです。そして、外国人全般、特にベトナム人向けのウェブサイトを作りました。部屋探し、仕事探し、日本語の勉強事、旅行事のためです。",
+  "projectProgress": "Demo",
+  "projectLink": "http://click.ecc.ac.jp/ecc/ptheson/material/Group/",
+  "projectSources": "https://github.com/ptheson1902/ForYourInformation",
+  "shortDescription": "部屋探し、仕事探し、日本語の勉強事、旅行事サイトです"
+},{
+  "_id": {
+    "$oid": "602faa3fc129eb1d6b8a4ce0"
+  },
+  "projectName": "Portfolio - Version 1",
+  "projectImage": "portfolio-v1.png",
+  "codeTechnologies": [
+    "html5",
+    "css3",
+    "sass"
+  ],
+  "description": "自己紹介。作成した商品を紹介。",
+  "projectProgress": "Demo",
+  "projectLink": "http://click.ecc.ac.jp/ecc/ptheson/portfolio/",
+  "projectSources": "#",
+  "shortDescription": "自己紹介。作成した商品を紹介。"
+},{
+  "_id": {
+    "$oid": "602faa3fc129eb1d6b8a4cdc"
+  },
+  "projectName": "Relative",
+  "projectImage": "relative.png",
+  "codeTechnologies": [
+    "html5",
+    "css3",
+    "sass",
+    "javascript",
+    "php",
+    "mysql"
+  ],
+  "description": "矢しなったと探す人の話し合い段階所です。相手の情報を調べる所です。大きなウェブサイトに投稿される。探す人の情報やDNA結果などをDNA銀行に預けて適切の場合と比べられる\n",
+  "projectProgress": "Writting",
+  "projectLink": "http://click.ecc.ac.jp/ecc/ptheson/material/Relatives/",
+  "projectSources": "#",
+  "shortDescription": "親戚を探すサイトです"
+},{
+  "_id": {
+    "$oid": "602faa3fc129eb1d6b8a4cdd"
+  },
+  "projectName": "YoiShop",
+  "projectImage": "yoishop.png",
+  "codeTechnologies": [
+    "html5",
+    "css3",
+    "sass",
+    "javascript"
+  ],
+  "description": "インターネット経由でユーザーをストアシ ステムに接続するWebサイトを作成します。 取引の作成は簡単で便利です",
+  "projectProgress": "Demo",
+  "projectLink": "https://yoishop.herokuapp.com",
+  "projectSources": "https://github.com/ptheson1902/yoishop",
+  "shortDescription": "Eコマースサイトです"
+},{
+  "_id": {
+    "$oid": "602faa3fc129eb1d6b8a4cde"
+  },
+  "projectName": "Filter Data from Database",
+  "projectImage": "filter-data-from-MySQL-with-PHP&AJAX.png",
+  "codeTechnologies": [
+    "html5",
+    "css3",
+    "jquery",
+    "bootstrap",
+    "php",
+    "mysql"
+  ],
+  "description": "phpとAjaxでmysqlからのデータをフィルタリングする",
+  "projectProgress": "Demo",
+  "projectLink": "http://click.ecc.ac.jp/ecc/ptheson/material/filter/",
+  "projectSources": "#",
+  "shortDescription": "勉強のサイトです"
+}]
